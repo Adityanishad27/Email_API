@@ -45,7 +45,7 @@ public class EmailServices {
 					@Override
 					protected PasswordAuthentication getPasswordAuthentication() {
 
-						return new PasswordAuthentication("avikkt09@gmail.com", "nfek xaud cdmg cfvy");
+						return new PasswordAuthentication("avikkt09@gmail.com", " password here");
 					}
 				});
 
